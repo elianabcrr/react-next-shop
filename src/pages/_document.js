@@ -18,6 +18,7 @@ class MyDocument extends Document {
                     </script> 
                  
             en el script arriba se agrega el code que da google analytics  */}
+            <link rel="manifest" href="/manifest.json"/>
         </Head>
         <body>
           {/* elementos principales de la aplicacion */}
